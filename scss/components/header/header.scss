@@ -1,0 +1,48 @@
+
+
+
+.header_block1 {
+
+  margin-top: 50px;
+
+}
+
+.navigation {
+  background-color: #303030;
+  height: 100px;
+
+
+
+}
+
+ul li {
+  display: inline;
+
+
+
+}
+
+nav ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+
+ul li a {
+  color:white;
+  padding: 40px;
+  text-decoration: none;
+  height: 100px;
+}
+
+
+ul li a:hover {
+  color:white;
+  padding: 40px;
+  text-decoration: none;
+  background-color: red;
+  transition: .3s;
+  height: 100px;
+}

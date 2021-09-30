@@ -1,0 +1,26 @@
+body {
+  font-family: var(--main-font-family), sans-serif;
+  background-color: var(--main-site-color);
+
+}
+
+h1 {
+  font-size: 50px;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 30px;
+  text-transform: uppercase;
+
+}
+
+
+a {
+  display: inline-block;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
